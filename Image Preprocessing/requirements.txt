@@ -1,0 +1,12 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```text
+streamlit
+opencv-python
+numpy
+Pillow
+matplotlib
+

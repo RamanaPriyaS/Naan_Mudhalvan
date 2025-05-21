@@ -1,0 +1,12 @@
+
+---
+
+### ✅ `requirements.txt`
+
+```txt
+opencv-python
+streamlit
+numpy
+
+
+
